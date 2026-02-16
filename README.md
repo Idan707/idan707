@@ -36,7 +36,7 @@ published in [New Astronomy](https://www.sciencedirect.com/science/article/abs/p
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Idan707&theme=tokyonight" alt="GitHub Contribution Chart" />
+  <img src="https://ssr-contributions-svg.vercel.app/_/Idan707?chart=calendar&flatten=0&weeks=50&scheme=green&dark=true" alt="GitHub Contribution Chart" />
 </p>
 
 ## 💡
