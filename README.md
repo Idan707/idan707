@@ -27,6 +27,18 @@ published in [New Astronomy](https://www.sciencedirect.com/science/article/abs/p
 - **Sr. Director AI/ML** @ [OpenWeb](https://www.openweb.com) — built the AI team from zero. LLM moderation, RL for ads, personalization. 1M req/min.
 - **ThetaRay** — built anomaly detection that caught money laundering and human trafficking for the world's biggest banks. also pointed the same ML at space and found [3 new exoplanets](https://www.sciencedirect.com/science/article/abs/pii/S1384107621001196).
 
+## 📊 GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/Idan707">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Idan707&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rber.app/4493f8/Idan707" alt="GitHub Contribution Chart" />
+</p>
+
 ## 💡
 
 ```
